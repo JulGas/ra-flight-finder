@@ -25,6 +25,7 @@ It scans flights over a chosen date range and highlights price trends in a simpl
   - Price accuracy or availability
   - Completeness or correctness of data
   - Stability of Ryanair's API
+
 I do not guarantee correctness, and I take no responsibility for errors, missing data, or booking decisions made using this tool.
 
 ## Installation & Usage
