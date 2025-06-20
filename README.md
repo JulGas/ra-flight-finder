@@ -18,9 +18,14 @@ It scans flights over a chosen date range and highlights price trends in a simpl
 
 ## Disclaimer
 
-- Prices come directly from Ryanair’s **unofficial public API**
+- Prices come directly from Ryanair’s **public API**
 - All prices are displayed in **Euro (EUR)**
 - Data is **not guaranteed to be complete or accurate** — Ryanair may change availability or prices at any time
+- This tool is provided as-is, without any guarantees regarding:
+  - Price accuracy or availability
+  - Completeness or correctness of data
+  - Stability of Ryanair's API
+I do not guarantee correctness, and I take no responsibility for errors, missing data, or booking decisions made using this tool.
 
 ## Installation & Usage
 
