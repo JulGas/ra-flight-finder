@@ -33,4 +33,4 @@ I do not guarantee correctness, and I take no responsibility for errors, missing
 Run the app in one line:
 
 ```bash
-pip install -r https://raw.githubusercontent.com/JulGas/ryanair-flight-finder/main/requirements.txt && streamlit run https://raw.githubusercontent.com/JulGas/ryanair-flight-finder/main/ryan.py
+pip install -r https://raw.githubusercontent.com/JulGas/ra-flight-finder/main/requirements.txt && streamlit run https://raw.githubusercontent.com/JulGas/ra-flight-finder/main/ryan.py
